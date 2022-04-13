@@ -9,3 +9,5 @@ Gitの練習をしてきます。
 変更した理由
 
 .git rm
+
+.git status
